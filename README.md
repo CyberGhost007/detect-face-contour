@@ -27,6 +27,7 @@ Face Contour Detection and Heart Rate Monitoring App! This app utilizes advanced
 To get started with the app, follow these steps:
 
 1. **Clone the repository**:
+
     ```bash
     git clone https://github.com/CyberGhost007/detect-face-contour.git
     cd detect-face-contour
@@ -34,11 +35,13 @@ To get started with the app, follow these steps:
 
 2. **Install dependencies**:
     Ensure you have Flutter installed on your system. Then, run:
+
     ```bash
     flutter pub get
     ```
 
 3. **Run the app**:
+
     ```bash
     flutter run
     ```

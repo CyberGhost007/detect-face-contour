@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
                     repeatForever: false,
                     pause: const Duration(milliseconds: 2000),
                     animatedTexts: [
-                      TyperAnimatedText("Hi, I'm Ami",
+                      TyperAnimatedText("Hi, I'm Jivi",
                           textAlign: TextAlign.center),
                       TyperAnimatedText(
                         "Your personal AI skincare assistant.",

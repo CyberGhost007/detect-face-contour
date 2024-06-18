@@ -10,8 +10,16 @@ Face Contour Detection and Heart Rate Monitoring App! This app utilizes advanced
 ## Screenshots
 
 <p align="center">
+  <img src="https://github.com/CyberGhost007/detect-face-contour/assets/29411278/7df8fc3a-aa97-4c4d-a802-0dc724f9531b" width="45%" />
+  <img src="https://github.com/CyberGhost007/detect-face-contour/assets/29411278/ae23d1cd-b2c9-4277-a871-882de5fcdd33" width="45%" />
+    <img src="https://github.com/CyberGhost007/detect-face-contour/assets/29411278/739ab68b-b22c-4707-9b2f-21dcecbf5f0c" width="45%" />
+</p>
+
+<p align="center">
   <img src="https://github.com/CyberGhost007/heartBPM/assets/29411278/873a5eff-acfe-42cb-a527-a48e0ee910a5" width="45%" />
   <img src="https://github.com/CyberGhost007/heartBPM/assets/29411278/aaf0d9e8-d597-4d43-9284-46247fa84438" width="45%" />
+  <img src="https://github.com/CyberGhost007/detect-face-contour/assets/29411278/6c42fbfa-f817-443d-92bc-b7af2af85482" width="45%" />
+  
 </p>
 
 ## Installation
